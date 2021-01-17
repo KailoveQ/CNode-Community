@@ -1,4 +1,4 @@
-# vue-program
+# 高仿CNode社区  [点我预览](https://kailoveq.github.io/CNode-Community/dist/index.html#/)
 
 ## Project setup
 ```
