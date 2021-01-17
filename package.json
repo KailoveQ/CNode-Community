@@ -10,6 +10,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "core-js": "^3.8.2",
+    "jquery": "^3.5.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
@@ -34,5 +35,8 @@
       "vue-cli-service lint",
       "git add"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "Kai <1114366961@qq.com>",
+  "license": "MIT"
 }
